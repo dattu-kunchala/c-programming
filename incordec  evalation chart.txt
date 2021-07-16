@@ -1,0 +1,16 @@
+pre inc/dec         
+                                 
+substitution                       
+
+evalkuate			
+
+assign 				 
+
+post inc/dsec     
+
+expected output will be:-
+a=6,b=2,z=8
+z=8,a=5,b=3
+a=6,b=2,z=8
+a= 5,b= 3,z= 7
+a=4,b=2,z=2
